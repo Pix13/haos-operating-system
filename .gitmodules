@@ -1,4 +1,4 @@
 [submodule "buildroot"]
 	path = buildroot
-	url = https://github.com/home-assistant/buildroot.git
+	url = https://github.com/Pix13/haos-buildroot.git
 	branch = 2021.02.x-haos
